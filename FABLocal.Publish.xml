@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\admin\Desktop\WebPublishing" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="FABWebService" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="WebForm1.aspx.designer.cs" publishTime="04/22/2014 08:24:48" />
+    <file relUrl="Fuel.aspx" publishTime="04/21/2014 15:57:55" />
+    <file relUrl="CityWS.cs" publishTime="04/21/2014 15:47:05" />
+    <file relUrl="ATM.aspx.designer.cs" publishTime="04/21/2014 15:51:03" />
+    <file relUrl="FuelWS.cs" publishTime="04/21/2014 15:47:05" />
+    <file relUrl="ClassBank.cs" publishTime="04/21/2014 15:47:05" />
+    <file relUrl="Properties/AssemblyInfo.cs" publishTime="04/21/2014 15:45:46" />
+    <file relUrl="Styles/Site.css" publishTime="04/21/2014 15:48:34" />
+    <file relUrl="Images/fuel.jpg" publishTime="04/21/2014 15:48:34" />
+    <file relUrl="Web.Release.config" publishTime="04/21/2014 15:45:45" />
+    <file relUrl="ATM.aspx.cs" publishTime="04/22/2014 09:29:20" />
+    <file relUrl="Images/ATM.jpg" publishTime="04/21/2014 15:48:34" />
+    <file relUrl="FAB.asmx" publishTime="04/21/2014 15:47:19" />
+    <file relUrl="Images/Bnk.jpg" publishTime="04/21/2014 15:48:34" />
+    <file relUrl="AreaWS.cs" publishTime="04/21/2014 15:47:05" />
+    <file relUrl="Bank.aspx" publishTime="04/21/2014 15:53:23" />
+    <file relUrl="Images/Bank.PNG" publishTime="04/21/2014 15:48:34" />
+    <file relUrl="WebForm1.aspx" publishTime="04/22/2014 08:24:48" />
+    <file relUrl="Fuel.aspx.cs" publishTime="04/21/2014 15:58:15" />
+    <file relUrl="Bank.aspx.cs" publishTime="04/21/2014 15:52:48" />
+    <file relUrl="ClassATM.cs" publishTime="04/21/2014 15:47:05" />
+    <file relUrl="BankListWS.cs" publishTime="04/21/2014 15:47:05" />
+    <file relUrl="default.aspx.designer.cs" publishTime="04/21/2014 15:54:37" />
+    <file relUrl="Fuel.aspx.designer.cs" publishTime="04/21/2014 15:57:49" />
+    <file relUrl="WebForm1.aspx.cs" publishTime="04/22/2014 08:28:37" />
+    <file relUrl="FAB.asmx.cs" publishTime="04/22/2014 09:05:19" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="04/21/2014 15:48:35" />
+    <file relUrl="Images/Desktop1.jpg" publishTime="04/21/2014 15:48:34" />
+    <file relUrl="Images/background images.jpg" publishTime="04/21/2014 15:48:34" />
+    <file relUrl="Images/Fuel.PNG" publishTime="04/21/2014 15:48:34" />
+    <file relUrl="default.aspx" publishTime="04/22/2014 08:20:25" />
+    <file relUrl="FillDropDown.cs" publishTime="04/21/2014 15:47:05" />
+    <file relUrl="bin/WebApplication1.pdb" publishTime="04/22/2014 09:49:03" />
+    <file relUrl="ATM.aspx" publishTime="04/21/2014 15:51:03" />
+    <file relUrl="bin/WebApplication1.dll" publishTime="04/22/2014 09:49:03" />
+    <file relUrl="FABLocal.csproj.user" publishTime="04/22/2014 09:47:24" />
+    <file relUrl="FABLocal.csproj" publishTime="04/22/2014 09:47:24" />
+    <file relUrl="FuelPump.cs" publishTime="04/21/2014 15:47:05" />
+    <file relUrl="Web.config" publishTime="04/22/2014 09:49:03" />
+    <file relUrl="Images/Desktop.jpg" publishTime="04/21/2014 15:48:34" />
+    <file relUrl="default.aspx.cs" publishTime="04/21/2014 15:56:24" />
+    <file relUrl="ATMWS.cs" publishTime="04/21/2014 15:47:05" />
+    <file relUrl="Bank.aspx.designer.cs" publishTime="04/21/2014 15:53:06" />
+    <file relUrl="Images/ATM.PNG" publishTime="04/21/2014 15:48:34" />
+    <file relUrl="BankWS.cs" publishTime="04/21/2014 15:47:05" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="04/21/2014 15:48:35" />
+    <file relUrl="Images/1.PNG" publishTime="04/21/2014 15:48:34" />
+    <file relUrl="Web.Debug.config" publishTime="04/21/2014 15:45:45" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="04/21/2014 15:48:34" />
+  </publishProfile>
+</publishData>
