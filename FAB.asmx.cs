@@ -82,6 +82,7 @@ namespace WebApplication1
             JavaScriptSerializer srs = new JavaScriptSerializer();
             Context.Response.Write("{Category:" + srs.Serialize(ws) + "}");
         }
+
         [WebMethod]
         public void GetATM()
         {
