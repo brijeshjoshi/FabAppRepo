@@ -141,7 +141,7 @@
         <WebProjectProperties>
           <UseIIS>False</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>80</DevelopmentServerPort>
+          <DevelopmentServerPort>50187</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>http://localhost/FABLocal</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
